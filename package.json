@@ -1,0 +1,12 @@
+{
+  "name": "memes-api",
+  "version": "1.0.0",
+  "description": "API for serving random memes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
